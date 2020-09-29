@@ -4,6 +4,9 @@ Customer Segmentation is a popular application of unsupervised learning. Using c
 Required modules / packages :
 * pandas
 * numpy
-* matplotlib.pyplot
+* matplotlib
 * sklearn
+
+Note : The above packages can be install by using 'pip' command in cmd, if and only if python is installed in the system (windows users). *example : pip install pandas
+
 
